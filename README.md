@@ -1,9 +1,9 @@
 ### Hi there!!! 😄
-## JavaScript Full stack developer 🌐 ׀ AWS Certified Developer ☁️
+## JavaScript Full stack developer ׀ AWS Certified Developer | AWS Solutions architect
 
-![Background](download4.png)
+![Background](banner.png)
 
-👋🏻 I'm a software developer, solving problems for 8 years, seeking to create maintainable and scalable solutions by implementing good practices. And I'm a lover of keyboard shortcuts too ❤️⌨️. 
+👋🏻 I'm a software developer, solving problems for 10 years, seeking to create maintainable and scalable solutions by implementing good practices. And I'm a lover of keyboard shortcuts too ❤️⌨️. 
 
 👔 I've professional experience with: C #, WPF, Java, Spring, React js, Node js, Fastify, Cucumber, SQL Server, MySQL, PostgreSQL and AWS: Lambdas, Cognito, API Gateway and Step functions.
 
