@@ -1,7 +1,7 @@
 ### Hi there!!! 😄
 ## JavaScript Full stack developer ׀ AWS Certified Developer | AWS Solutions architect
 
-![Background](banner.png)
+![Background](Banner.png)
 
 👋🏻 I'm a software developer, solving problems for 10 years, seeking to create maintainable and scalable solutions by implementing good practices. And I'm a lover of keyboard shortcuts too ❤️⌨️. 
 
